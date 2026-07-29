@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Tmux Scroll Setup - Installation Script
-# https://github.com/YOUR_USERNAME/tmux-scroll-setup
+# https://github.com/dens4t/tmux-scroll-setup
 
 set -e
 
@@ -52,7 +52,7 @@ if [ -f ".tmux.conf" ]; then
     cp .tmux.conf ~/.tmux.conf
 else
     echo "📥 Downloading .tmux.conf from GitHub..."
-    curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/tmux-scroll-setup/main/.tmux.conf -o ~/.tmux.conf
+    curl -fsSL https://raw.githubusercontent.com/dens4t/tmux-scroll-setup/main/.tmux.conf -o ~/.tmux.conf
 fi
 
 echo "✅ Config installed to: ~/.tmux.conf"

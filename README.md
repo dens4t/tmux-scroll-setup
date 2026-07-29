@@ -20,14 +20,14 @@ Setup lengkap untuk mengaktifkan scrolling di tmux, khususnya untuk web terminal
 
 ```bash
 # Download dan setup
-curl -fsSL https://raw.githubusercontent.com/YOUR_USERNAME/tmux-scroll-setup/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/dens4t/tmux-scroll-setup/main/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/tmux-scroll-setup.git
+git clone https://github.com/dens4t/tmux-scroll-setup.git
 cd tmux-scroll-setup
 
 # Copy konfigurasi
@@ -231,8 +231,8 @@ MIT License - lihat file [LICENSE](LICENSE) untuk detail.
 
 Jika ada pertanyaan atau masalah:
 
-- 🐛 [Report bugs](https://github.com/YOUR_USERNAME/tmux-scroll-setup/issues)
-- 💬 [Discussions](https://github.com/YOUR_USERNAME/tmux-scroll-setup/discussions)
+- 🐛 [Report bugs](https://github.com/dens4t/tmux-scroll-setup/issues)
+- 💬 [Discussions](https://github.com/dens4t/tmux-scroll-setup/discussions)
 - 📧 Email: your-email@example.com
 
 ## 🔗 Links
